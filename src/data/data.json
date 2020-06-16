@@ -1,0 +1,17 @@
+[
+    {
+        "title":"data_reports_monthly_indicators_yellow",
+        "address":"https://nyco365-my.sharepoint.com/:x:/g/personal/voevodinn_tlc_nyc_gov/ER3nuBInhJJDgVKDHQnoDyMBH_gOrt9cLqVdjNmgffdCLg?e=uaPmBl",
+        "description":"Covers monthly trends on general metrics for yellow taxis."
+    },
+    {
+        "title":"data_reports_monthly_indicators_green",
+        "address":"https://nyco365-my.sharepoint.com/:x:/g/personal/voevodinn_tlc_nyc_gov/ER9hIzmCYuNNgmV-GfcixBEB5C72SBHLKWREHXbmBzyHoQ?e=J2N8FA",
+        "description":"Covers monthly trends on general metrics for green taxis."
+    },
+    {
+        "title":"data_reports_monthly_indicators_fhv",
+        "address":"https://nyco365-my.sharepoint.com/:x:/g/personal/voevodinn_tlc_nyc_gov/EcaCSbNYFFxMmM_GLyu7KnoByEmuxcO3CtCZliYyyg-QIA?e=2lk9FZ",
+        "description":"Covers monthly trends on general metrics for fhv taxis."
+    }
+]
